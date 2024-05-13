@@ -11,6 +11,14 @@ AWS ブログの[生成 AI で外観検査をやってみた](https://aws.amazon
 
 ### クラス
 
-- good: 良品
-- burnt: 焦げ
-- chip: 欠け
+#### good: 良品
+
+![good](./images/good_01.png)
+
+#### burnt: 焦げ
+
+![burnt](./images/burnt_01.png)
+
+#### chip: 欠け
+
+![chip](./images/chip_01.png)
